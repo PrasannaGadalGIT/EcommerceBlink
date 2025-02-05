@@ -7,7 +7,7 @@ import {
 } from '@solana/wallet-adapter-react-ui';
 import '@solana/wallet-adapter-react-ui/styles.css';
 
-import LoginComp from "@/components/LoginComp"
+import LoginComp from "../../components/LoginComp"
 
 const Login = () => {
 

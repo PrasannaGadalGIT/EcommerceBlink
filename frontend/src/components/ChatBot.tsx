@@ -3,7 +3,7 @@ import React, { useState, useEffect, useRef } from "react";
 import { Sun, Moon, Send, Bot, User } from "lucide-react";
 import "@dialectlabs/blinks/index.css";
 import { signOut } from "next-auth/react";
-import { Button } from "@/components/ui/button";
+import { Button } from "./ui/button";
 import axios from "axios";
 
 interface Message {

@@ -1,10 +1,10 @@
 "use client"
 
-import AuthButtons from '@/components/AuthButtons'
-import Border from '@/components/Border'
-import Header from '@/components/Header'
-import SignUp from '@/components/SignUp'
-import SignUpForm from '@/components/SignUpForm'
+import AuthButtons from './AuthButtons'
+import Border from './Border'
+import Header from './Header'
+import SignUp from './SignUp'
+import SignUpForm from './SignUpForm'
 import React, { useState } from 'react'
 import {useWallet} from '@solana/wallet-adapter-react'
 import {

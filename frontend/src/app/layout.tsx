@@ -1,7 +1,7 @@
 
 import "./globals.css";
 import { Karla } from 'next/font/google'
-import SessionWrapper from "@/components/SessionWrapper";
+import SessionWrapper from "../components/SessionWrapper";
 const karla = Karla({
   subsets: ['latin'],
   weight: ['400', '700'],
