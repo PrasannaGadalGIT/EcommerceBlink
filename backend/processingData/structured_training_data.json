@@ -1,0 +1,302 @@
+[
+    {
+        "ProductID": 1,
+        "Name": "Custom PC - Build your own computer (Customizable, High Performance)",
+        "UnitPrice": 1200.0,
+        "AvgRating": 3.3429951691
+    },
+    {
+        "ProductID": 2,
+        "Name": "Digital Storm VANQUISH 3 - Custom Performance PC (Gaming, High-End)",
+        "UnitPrice": 1259.0,
+        "AvgRating": 3.0980392157
+    },
+    {
+        "ProductID": 3,
+        "Name": "Lenovo IdeaCentre 600 - All-in-One PC (Compact, Home Office)",
+        "UnitPrice": 500.0,
+        "AvgRating": 3.1990049751
+    },
+    {
+        "ProductID": 4,
+        "Name": "Apple MacBook Pro 13-inch - Laptop (Retina Display, Portable)",
+        "UnitPrice": 1800.0,
+        "AvgRating": 3.3369565217
+    },
+    {
+        "ProductID": 5,
+        "Name": "Asus N551JK-XO076H - Laptop (Gaming, High Performance)",
+        "UnitPrice": 1500.0,
+        "AvgRating": 3.3131313131
+    },
+    {
+        "ProductID": 6,
+        "Name": "Samsung Series 9 NP900X4C - Premium Ultrabook (Slim, Lightweight)",
+        "UnitPrice": 1590.0,
+        "AvgRating": 3.0693641618
+    },
+    {
+        "ProductID": 7,
+        "Name": "HP Spectre XT Pro - UltraBook (Business, Sleek Design)",
+        "UnitPrice": 1350.0,
+        "AvgRating": 3.1971153846
+    },
+    {
+        "ProductID": 8,
+        "Name": "HP Envy 6-1180ca - 15.6-Inch Sleekbook (Portable, Stylish)",
+        "UnitPrice": 1460.0,
+        "AvgRating": 3.0784313725
+    },
+    {
+        "ProductID": 9,
+        "Name": "Lenovo Thinkpad X1 Carbon - Laptop (Business, Lightweight)",
+        "UnitPrice": 1360.0,
+        "AvgRating": 3.234939759
+    },
+    {
+        "ProductID": 10,
+        "Name": "Adobe Photoshop CS4 - Software (Photo Editing, Professional)",
+        "UnitPrice": 75.0,
+        "AvgRating": 3.3457446809
+    },
+    {
+        "ProductID": 11,
+        "Name": "Windows 8 Pro - Operating System (Upgrade, Business Use)",
+        "UnitPrice": 65.0,
+        "AvgRating": 3.0282485876
+    },
+    {
+        "ProductID": 12,
+        "Name": "Sound Forge Pro 11 - Audio Editing Software (Recurring License, Professional)",
+        "UnitPrice": 54.99,
+        "AvgRating": 3.1785714286
+    },
+    {
+        "ProductID": 13,
+        "Name": "Nikon D5500 - DSLR Camera (24.2 MP, Black)",
+        "UnitPrice": 670.0,
+        "AvgRating": 3.1641025641
+    },
+    {
+        "ProductID": 14,
+        "Name": "Nikon D5500 - DSLR Camera (24.2 MP, Black)",
+        "UnitPrice": 670.0,
+        "AvgRating": 3.0718232044
+    },
+    {
+        "ProductID": 15,
+        "Name": "Nikon D5500 - DSLR Camera (24.2 MP, Red)",
+        "UnitPrice": 630.0,
+        "AvgRating": 3.0691489362
+    },
+    {
+        "ProductID": 16,
+        "Name": "Leica T - Mirrorless Digital Camera (Compact, High Quality)",
+        "UnitPrice": 530.0,
+        "AvgRating": 3.0319148936
+    },
+    {
+        "ProductID": 17,
+        "Name": "Apple iCam - Digital Camera (Compact, Stylish)",
+        "UnitPrice": 1300.0,
+        "AvgRating": 3.1473684211
+    },
+    {
+        "ProductID": 18,
+        "Name": "HTC One M8 - Android Smartphone (Lollipop, High Performance)",
+        "UnitPrice": 245.0,
+        "AvgRating": 3.1875
+    },
+    {
+        "ProductID": 19,
+        "Name": "HTC One Mini - Smartphone (Blue, Compact)",
+        "UnitPrice": 100.0,
+        "AvgRating": 3.2067039106
+    },
+    {
+        "ProductID": 20,
+        "Name": "Nokia Lumia 1020 - Smartphone (41 MP Camera, Windows OS)",
+        "UnitPrice": 349.0,
+        "AvgRating": 3.2204301075
+    },
+    {
+        "ProductID": 21,
+        "Name": "Beats Pill 2.0 - Wireless Speaker (Portable, High Quality Sound)",
+        "UnitPrice": 79.99,
+        "AvgRating": 3.0384615385
+    },
+    {
+        "ProductID": 22,
+        "Name": "Universal 7-8 Inch Tablet Cover (Durable, Multi-Device Compatible)",
+        "UnitPrice": 39.0,
+        "AvgRating": 2.9638554217
+    },
+    {
+        "ProductID": 23,
+        "Name": "Portable Sound Speakers (Compact, High Volume)",
+        "UnitPrice": 37.0,
+        "AvgRating": 3.2352941176
+    },
+    {
+        "ProductID": 24,
+        "Name": "Nike Floral Roshe - Customized Running Shoes (Lightweight, Stylish)",
+        "UnitPrice": 40.0,
+        "AvgRating": 3.2383419689
+    },
+    {
+        "ProductID": 25,
+        "Name": "adidas Consortium Campus 80s - Running Shoes (Vintage Style, Comfortable)",
+        "UnitPrice": 27.56,
+        "AvgRating": 3.2070707071
+    },
+    {
+        "ProductID": 26,
+        "Name": "Nike SB Zoom Stefan Janoski - Sneakers (Medium Mint, Skateboarding)",
+        "UnitPrice": 30.0,
+        "AvgRating": 3.1715976331
+    },
+    {
+        "ProductID": 27,
+        "Name": "Nike Tailwind Loose - Short-Sleeve Running Shirt (Breathable, Comfortable)",
+        "UnitPrice": 15.0,
+        "AvgRating": 3.235
+    },
+    {
+        "ProductID": 28,
+        "Name": "Oversized Women T-Shirt (Casual, Comfortable)",
+        "UnitPrice": 24.0,
+        "AvgRating": 3.2769230769
+    },
+    {
+        "ProductID": 29,
+        "Name": "Custom T-Shirt (Personalized Design, Unisex)",
+        "UnitPrice": 15.0,
+        "AvgRating": 3.3230769231
+    },
+    {
+        "ProductID": 30,
+        "Name": "Levi's 511 Jeans (Slim Fit, Durable)",
+        "UnitPrice": 43.5,
+        "AvgRating": 3.2631578947
+    },
+    {
+        "ProductID": 31,
+        "Name": "Obey Propaganda Hat (Stylish, Adjustable)",
+        "UnitPrice": 30.0,
+        "AvgRating": 3.0869565217
+    },
+    {
+        "ProductID": 32,
+        "Name": "Reversible Horseferry Check Belt (Durable, Stylish)",
+        "UnitPrice": 45.0,
+        "AvgRating": 3.0819672131
+    },
+    {
+        "ProductID": 33,
+        "Name": "Ray Ban Aviator Sunglasses (Classic, UV Protection)",
+        "UnitPrice": 25.0,
+        "AvgRating": 3.3615023474
+    },
+    {
+        "ProductID": 34,
+        "Name": "Night Visions - Album by Imagine Dragons (Digital Download)",
+        "UnitPrice": 2.8,
+        "AvgRating": 3.1069518717
+    },
+    {
+        "ProductID": 35,
+        "Name": "If You Wait - Album by London Grammar (Donation, Digital Download)",
+        "UnitPrice": 0.0,
+        "AvgRating": 3.1612903226
+    },
+    {
+        "ProductID": 36,
+        "Name": "Science & Faith - Album by The Script (Digital Download)",
+        "UnitPrice": 0.0,
+        "AvgRating": 3.2254901961
+    },
+    {
+        "ProductID": 37,
+        "Name": "Fahrenheit 451 - Book by Ray Bradbury (Classic, Paperback)",
+        "UnitPrice": 27.0,
+        "AvgRating": 3.2233502538
+    },
+    {
+        "ProductID": 38,
+        "Name": "First Prize Pies - Cookbook by Allison Kave (Hardcover, Recipes)",
+        "UnitPrice": 51.0,
+        "AvgRating": 3.2113402062
+    },
+    {
+        "ProductID": 39,
+        "Name": "Pride and Prejudice - Book by Jane Austen (Classic, Paperback)",
+        "UnitPrice": 24.0,
+        "AvgRating": 3.3450292398
+    },
+    {
+        "ProductID": 40,
+        "Name": "Elegant Gemstone Necklace (Rental, Stylish)",
+        "UnitPrice": 30.0,
+        "AvgRating": 3.2292682927
+    },
+    {
+        "ProductID": 41,
+        "Name": "Flower Girl Bracelet (Elegant, Gift)",
+        "UnitPrice": 360.0,
+        "AvgRating": 3.0972972973
+    },
+    {
+        "ProductID": 42,
+        "Name": "Vintage Style Engagement Ring (Classic, High Quality)",
+        "UnitPrice": 2100.0,
+        "AvgRating": 3.1921182266
+    },
+    {
+        "ProductID": 43,
+        "Name": "$25 Virtual Gift Card (Flexible, Instant Delivery)",
+        "UnitPrice": 25.0,
+        "AvgRating": 3.2295081967
+    },
+    {
+        "ProductID": 44,
+        "Name": "$50 Physical Gift Card (Redeemable, Stylish Design)",
+        "UnitPrice": 50.0,
+        "AvgRating": 3.2755102041
+    },
+    {
+        "ProductID": 45,
+        "Name": "$100 Physical Gift Card (Redeemable, Premium Design)",
+        "UnitPrice": 100.0,
+        "AvgRating": 3.1151832461
+    },
+    {
+        "ProductID": 46,
+        "Name": "Samsung A7 - Smartphone (Mid-Range, Stylish)",
+        "UnitPrice": 3.0,
+        "AvgRating": 3.1797752809
+    },
+    {
+        "ProductID": 47,
+        "Name": "Cửa Hàng Thời Trang - Fashion Store (Local, Trendy)",
+        "UnitPrice": 5.0,
+        "AvgRating": 3.2362637363
+    },
+    {
+        "ProductID": 48,
+        "Name": "Lightstick BLACKPINK - Concert Accessory (Official, LED)",
+        "UnitPrice": 20.0,
+        "AvgRating": 3.2052631579
+    },
+    {
+        "ProductID": 49,
+        "Name": "Giày Sneaker Unisex Sk8 Hi Vans - Navy (Casual, Durable)",
+        "UnitPrice": 20.0,
+        "AvgRating": 3.0852272727
+    },
+    {
+        "ProductID": 50,
+        "Name": "A7 - Smartphone (Compact, Affordable)",
+        "UnitPrice": 3.0,
+        "AvgRating": 3.1428571429
+    }
+]
