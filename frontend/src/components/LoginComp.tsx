@@ -6,14 +6,12 @@ import Header from './Header'
 import SignUp from './SignUp'
 import SignUpForm from './SignUpForm'
 import React, { useState } from 'react'
-import {useWallet} from '@solana/wallet-adapter-react'
+
 import {
     WalletMultiButton
 } from '@solana/wallet-adapter-react-ui';
 function LoginComp() {
     const [mode, setMode] = useState("signup")
-    const wallet = useWallet()
-    console.log(wallet.publicKey)
   return (
     <div className="bg-black">
   

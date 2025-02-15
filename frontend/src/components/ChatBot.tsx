@@ -31,17 +31,12 @@ const ChatBot = () => {
     messagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
   }, [messages]);
 
-  // Function to clean API response
-  const cleanText = (text: string) => {
-    return text.replace(/<\/?[^>]+(>|$)/g, "").replace(/\s+/g, " ").trim();
-  };
-
-  // Function to format lists properly
-  const formatList = (text: string) => {
-    return text.replace(/\d+\./g, "<br><b>$&</b>");
-  };
+ 
 
   const handleSubmit = async (e: React.FormEvent) => {
+
+    const res = axios.get('http://localhost:3001/users/1')
+    console.log(res)
     e.preventDefault();
     if (!input.trim()) return;
 
@@ -57,10 +52,10 @@ const ChatBot = () => {
         prompt: input,
       });
 
-      const cleanedResponse = formatList(cleanText(response.data.response));
+    
 
       const botMessage: Message = {
-        text: cleanedResponse || "Sorry, I couldn't generate a response.",
+        text: response.data.response || "Sorry, I couldn't generate a response.",
         isBot: true,
       };
 
