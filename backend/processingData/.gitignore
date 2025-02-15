@@ -2,3 +2,4 @@
 /nlp100
 /structured_training_data
 word2vec_product_model.model
+.env
